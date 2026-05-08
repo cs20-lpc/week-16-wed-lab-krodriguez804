@@ -1,4 +1,6 @@
 #include "GraphMatrix.hpp"
+#include <iostream>
+using namespace std;
 
 void createGraph(Graph*&);
 void checkGraphType(Graph*);
